@@ -1,5 +1,6 @@
 # Chris' Wiki
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[gimmick:sidebar (levels: 3)]()
+
+[Home](index.md)
+[Tools](tools.md)
